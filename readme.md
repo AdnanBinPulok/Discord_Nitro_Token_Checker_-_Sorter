@@ -12,8 +12,8 @@ This script checks Discord tokens for their validity, Nitro subscription status,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AdnanBinPulok/Discord_Nitro_Token_Checker_&_Sorter
-cd Discord_Nitro_Token_Checker_&_Sorter
+git clone https://github.com/AdnanBinPulok/Discord_Nitro_Token_Checker_-_Sorter
+cd Discord_Nitro_Token_Checker_-_Sorter
 ```
 
 2. Install the required packages:
